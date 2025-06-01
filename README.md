@@ -11,7 +11,7 @@ This project demonstrates how to provision an EC2 instance on AWS using Terrafor
 - ProtonMail + IVPN – Privacy-centric email and secure network configuration
 ---
 ## 📸 Project Screenshot
-![EC2 Instance Running](EC2-running-lvl1-Project.png)
+![EC2 Screenshot](EC2-running-lvl1-Project.png)
 ---
 ## 📁 Project Structure
 .
